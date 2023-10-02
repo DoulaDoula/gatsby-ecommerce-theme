@@ -23,9 +23,7 @@ const FaqPage = (props) => {
               <h3>Deliveries</h3>
               <p>
                 To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
-                notification when your package is dispatched. Please check your
-                email inbox and your junk filter.
+                section of your Sur junk filter.
               </p>
               <p>
                 We dispatch all orders within 24 hours of being placed. During
